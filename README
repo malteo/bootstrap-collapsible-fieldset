@@ -1,0 +1,3 @@
+Just include the css and js files. jQuery is a dependency.
+
+Add 'class="collapsible"' to a fieldset to have it collapsed by default; by clicking on its <legend> you toggle between visible and not.
